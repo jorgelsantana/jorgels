@@ -1,0 +1,23 @@
+body {
+
+	background:url(../img/fondo.png);
+	background-repeat:no-repeat;
+}
+
+a {
+
+	color:#0000FF;
+	text-decoration:none;
+}
+
+a {
+    font-family:"Verdana", "Myriad Pro";
+    font-size:px20;
+}
+
+p {
+    font-family:"Verdana", "Myriad Pro";
+    font-size:px20;
+}
+
+
